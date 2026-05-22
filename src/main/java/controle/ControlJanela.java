@@ -1,6 +1,9 @@
 package controle;
 
-import visao.*;
+import visao.FrmJanela1;
+import visao.FrmJanela2;
+import visao.FrmJanela3;
+
 
 /**
  * @author Osmar de Oliveira Braz Junior
